@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">怡亭</string>
+    <string name="turn_red">当前回合：红方</string>
+    <string name="turn_black">当前回合：黑方</string>
+    <string name="undo_not_implemented">悔棋功能暂未实现</string>
+    <string name="red_resign">红方认输</string>
+    <string name="black_resign">黑方认输</string>
+</resources>

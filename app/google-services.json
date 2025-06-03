@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943522241441",
+    "project_id": "myelderlyapp",
+    "storage_bucket": "myelderlyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943522241441:android:0e1b56c1a6cda7481689e0",
+        "android_client_info": {
+          "package_name": "com.example.myelderlyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBfPsj-Zcv_yu1VOKo6DrgYht-jCA_HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
